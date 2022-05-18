@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/dy/webserver/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -I/usr/local/include/yaml-cpp -I/home/dy/webserver/.  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/Log.cpp.o -c /home/dy/webserver/Log.cpp",
+  "file": "/home/dy/webserver/Log.cpp"
+},
+{
+  "directory": "/home/dy/webserver/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -I/usr/local/include/yaml-cpp -I/home/dy/webserver/.  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/util.cpp.o -c /home/dy/webserver/util.cpp",
+  "file": "/home/dy/webserver/util.cpp"
+},
+{
+  "directory": "/home/dy/webserver/build",
+  "command": "/usr/bin/g++ -Dsylar_EXPORTS -I/usr/local/include/yaml-cpp -I/home/dy/webserver/.  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -fPIC -o CMakeFiles/sylar.dir/config.cpp.o -c /home/dy/webserver/config.cpp",
+  "file": "/home/dy/webserver/config.cpp"
+},
+{
+  "directory": "/home/dy/webserver/build",
+  "command": "/usr/bin/g++  -I/usr/local/include/yaml-cpp -I/home/dy/webserver/.  -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -g -o CMakeFiles/test_config.dir/test/test_config.cpp.o -c /home/dy/webserver/test/test_config.cpp",
+  "file": "/home/dy/webserver/test/test_config.cpp"
+}
+]
